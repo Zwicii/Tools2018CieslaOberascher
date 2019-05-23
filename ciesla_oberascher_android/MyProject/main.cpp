@@ -17,4 +17,6 @@ public void thisIsANewMethod() {
     
     printf("line of code 2 from member2");
     printf("line of code 3 from member2");
+
+	std::cout << "Best line of code ever written!" //Author: God himself
 }
