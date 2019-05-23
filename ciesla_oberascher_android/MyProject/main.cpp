@@ -6,7 +6,8 @@ int main(){
 }
 
 public void thisIsANewMethod() {
-    printf("this is a new method");
+    std::cout << "Hallo";
 	std::cout << "Hallo";
-    printf("different line of code from member2");
+	std::cout << "Hallo";
+	std::cout << "Hallo";
 }
