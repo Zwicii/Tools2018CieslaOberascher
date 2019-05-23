@@ -7,4 +7,5 @@ int main(){
 
 public void thisIsANewMethod() {
     printf("this is a new method");
+	std::cout << "Hallo";
 }
