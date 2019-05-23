@@ -8,4 +8,5 @@ int main(){
 public void thisIsANewMethod() {
     printf("this is a new method");
 	std::cout << "Hallo";
+    printf("different line of code from member2");
 }
